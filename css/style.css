@@ -54,7 +54,7 @@ height: 100vh;
   cursor: pointer;
 }
 #nav{
-  height: 100vh;
+  height: 100%;
   background-color: #1a1a1a;
 }
 #page {
