@@ -16,3 +16,8 @@ $('#cross-nav').click(function(){
     $('#toggle-navbar').show();
   });
 });
+$('.container-fluid').click(function(){
+  $("#nav").animate({width:'toggle'},350,function(){
+    $('#toggle-navbar').show();
+  });
+});
